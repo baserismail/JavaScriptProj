@@ -1,1 +1,1 @@
-# Grupen Arbeit mit Javascript
+# Javascript
