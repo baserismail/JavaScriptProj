@@ -1,1 +1,1 @@
-# JavaScriptProj
+# Grupen Arbeit mit JavaScript
